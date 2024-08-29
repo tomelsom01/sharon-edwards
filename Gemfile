@@ -78,3 +78,7 @@ gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 # install simpleform
 
 gem 'simple_form'
+
+# install dotenv
+
+gem 'dotenv-rails'
